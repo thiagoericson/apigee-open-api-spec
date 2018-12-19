@@ -1,0 +1,17 @@
+{
+  "name": "apigee-open-api-spec",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Thiago E. Cabral <ericson.thiago@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.11.1"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
